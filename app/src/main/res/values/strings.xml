@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Project</string>
+    <string name="But1Name">Map</string>
+    <string name="But2Name">List</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="one">Map</string>
+    <string name="two">Lists</string>
+    <string name="dialog_message">Location Selected</string>
+    <string name="dialog_title">Location</string>
+    <string name="ok">Location</string>
+    <string name="cancel">Location</string>
+    <string name="Text1">Welcome to my App</string>
+    <string name="Text2">Select one of the Above Options</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_location_information_details">LocationInformationDetails</string>
+</resources>
